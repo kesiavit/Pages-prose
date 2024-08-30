@@ -5,5 +5,26 @@
 }
 
 :root {
-    
+
+/*Variáveis de cores*/
+
+--color-primary: #8646AE;
+--color-secondary: #3C1F4E;
+--bg-color: #EDE3F3;
+--text-primary: #2C2C2C;
+--text-secondary: #5E5E5E;
+--surface-color: #6B388B;
+--button-label: #EDE3F3;
+--button-color: #2F193D;
+
+
+/*Variáveis de texto*/
+
+--font-family: "Poppins", sans-serif;
+--text-xlg: bold 128px/125% var(--font-family);
+--text-lg: bold 64px/125% var(--font-family);
+--text-md: 32px/170% var(--font-family);
+--text-sm: 14px/170% var(--font-family);
+--text: 16px/170% var(--font-family);
+
 }
